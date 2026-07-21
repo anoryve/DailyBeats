@@ -1,0 +1,6 @@
+{
+  "name": "Daily Beats Electronic Music Album",
+  "description": "An interactive procedural electronic music album telling the heartwarming story of a family's daily cycle from dawn to starry night.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
